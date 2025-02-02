@@ -11,5 +11,4 @@
 
 
 ## คำสั่งในการใช้งาน พิมพ์ใน terminal
-
-## python main.py
+- python main.py
